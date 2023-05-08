@@ -3,9 +3,9 @@ i'm currently in my second year of High School and learning Web Development, I'v
 with that said, I really hope that I can grow and create intresting projects. 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0-N4M3-B0Y&show_icons=true&theme=monokai)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Artur-RF&show_icons=true&theme=monokai)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N0-N4M3-B0Y&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Artur-RF&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href= "https://github.com/N0-N4M3-B0Y">
 <div dir="auto"><br>
