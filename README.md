@@ -29,8 +29,8 @@ with that said, I really hope that I can grow and create intresting projects.
 
 >🎨Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 >☕Backend: 
@@ -50,6 +50,7 @@ with that said, I really hope that I can grow and create intresting projects.
 >📖Studying
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
   ##
   
   <div>
