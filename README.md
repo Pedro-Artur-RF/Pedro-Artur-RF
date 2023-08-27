@@ -1,9 +1,10 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffa4&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+I'm+Pedro+Artur!!!+:D)](https://git.io/typing-svg)
+
+
 Hello, my name is Pedro Artur, I use he/they pronouns and I'm 18 years old.
 i'm currently in my third year of High School and learning Web Development, I've been Studying HTML, CSS, JS and Java, I'm also very interested in the cybersecurity world.
 with that said, I really hope that I can grow and create intresting projects. 
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffa4&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+I'm+Pedro+Artur!!!+:D)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pedro-Artur-RF&bg_color=151515&color=fff&line=444444&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
