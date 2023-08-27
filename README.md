@@ -1,5 +1,5 @@
-Hello, my name is Pedro Artur, I use he/they pronouns and I'm 17 years old.
-i'm currently in my third year of High School and learning Web Development, I've been Studying HTML, CSS, JS and Dart/Flutter. 
+Hello, my name is Pedro Artur, I use he/they pronouns and I'm 18 years old.
+i'm currently in my third year of High School and learning Web Development, I've been Studying HTML, CSS, JS and Java, I'm also very interested in the cybersecurity world.
 with that said, I really hope that I can grow and create intresting projects. 
 
 
@@ -21,16 +21,16 @@ with that said, I really hope that I can grow and create intresting projects.
 
 A list of the Technologies I study and use to develop my projects:
 
-Backend: 
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-
-
 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+
+Backend: 
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 Database:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
@@ -42,10 +42,6 @@ IDEs:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
   ##
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Pedro-Portuguese-BR" height="40" width="40" src="./flags_icons/brasil.png">
-    <img align="center" alt="Pedro-English" height="40" width="40" src="./flags_icons/estados-unidos-da-america.png"
-</div>
 
   ##
   
