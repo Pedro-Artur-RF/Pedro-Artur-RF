@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffa4&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+I'm+Pedro+Artur!!!+:D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4AF626&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+I'm+Pedro+Artur!!!+:D)](https://git.io/typing-svg)
 
 
 Hello, my name is Pedro Artur, I use he/they pronouns and I'm 18 years old.
@@ -18,7 +18,7 @@ with that said, I really hope that I can grow and create intresting projects.
 
 
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffa4&size=35&center=true&vCenter=true&width=1000&lines=Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4AF626&size=35&center=true&vCenter=true&width=1000&lines=Technologies)](https://git.io/typing-svg)
 
 
 A list of the Technologies I study and use to develop my projects:
