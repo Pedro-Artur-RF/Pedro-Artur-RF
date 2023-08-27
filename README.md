@@ -17,9 +17,13 @@ with that said, I really hope that I can grow and create intresting projects.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Artur-RF&layout=compact&langs_count=7&theme=dark&card_width=420&card_height=200"/>
 </div>
     
-⚡ Technologies
+🌐 Technologies
 
 A list of the Technologies I study and use to develop my projects:
+
+Design
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -40,8 +44,6 @@ Tools:
 
 IDEs:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-  ##
 
   ##
   
