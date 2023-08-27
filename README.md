@@ -9,13 +9,13 @@ with that said, I really hope that I can grow and create intresting projects.
 
 
 
-
-
 <div align="center" justify-content="center">
   <a href="https://github.com/Kaua032">
     <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Artur-RF&layout=compact&langs_count=7&theme=dark&card_width=420" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Artur-RF&layout=compact&langs_count=7&theme=dark&card_width=420&card_height=200"/>
 </div>
+
+
     
 >🌐 Technologies
 
@@ -48,6 +48,9 @@ IDEs:
   ##
   
   <div>
+
+
+
 
   >📨 Contact
     
