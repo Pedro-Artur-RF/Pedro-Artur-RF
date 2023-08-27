@@ -18,13 +18,14 @@ with that said, I really hope that I can grow and create intresting projects.
 
 
     
->🌐 Technologies
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffa4&size=35&center=true&vCenter=true&width=1000&lines=Technologies)](https://git.io/typing-svg)
+
 
 A list of the Technologies I study and use to develop my projects:
 
 Design
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4Cflat-square&logoC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1Eflat-square&logo.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -34,7 +35,7 @@ Frontend
 
 Backend: 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 Database:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
