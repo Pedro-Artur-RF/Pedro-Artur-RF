@@ -3,20 +3,58 @@ i'm currently in my third year of High School and learning Web Development, I've
 with that said, I really hope that I can grow and create intresting projects. 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Artur-RF&show_icons=true&theme=monokai)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffa4&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+I'm+Pedro+Artur;;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Artur-RF&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaua032&bg_color=151515&color=fff&line=444444&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a href= "https://github.com/N0-N4M3-B0Y">
-<div dir="auto"><br>
- 
- <img align="center" alt="Motsu-CSS" height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg'>
- <img align="center" alt="Motsu-CSS" height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg'>
- <img align="center" alt="Motsu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
- <img align="center" alt="Motsu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Motsu-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
+
+
+
+
+<div align="center" justify-content="center">
+  <a href="https://github.com/Kaua032">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kaua032&layout=compact&langs_count=7&theme=dark&card_width=420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua032&layout=compact&langs_count=7&theme=dark&card_width=420&card_height=200"/>
+</div>
+    
+⚡ Technologies
+
+These are some of the technologies and tools that I work with:
+
+Backend: 
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+
+
+Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+Database:
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+Tools:
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+IDEs:
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+  ##
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Pedro-Portuguese-BR" height="40" width="40" src="./flags_icons/brasil.png">
+    <img align="center" alt="Pedro-English" height="40" width="40" src="./flags_icons/estados-unidos-da-america.png"
+</div>
+
+  ##
   
+  <div>
+  <a href="https://www.instagram.com/pedro_artur_rfn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedro-artur-rolemberg-0a30a8194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
+
  
 </div>
-<h2 dir="auto"></h2>
-</a>
+
+  
