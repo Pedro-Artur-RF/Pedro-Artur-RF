@@ -5,7 +5,7 @@ with that said, I really hope that I can grow and create intresting projects.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffa4&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+I'm+Pedro+Artur;;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaua032&bg_color=151515&color=fff&line=444444&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pedro-Artur-RF&bg_color=151515&color=fff&line=444444&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
@@ -13,13 +13,13 @@ with that said, I really hope that I can grow and create intresting projects.
 
 <div align="center" justify-content="center">
   <a href="https://github.com/Kaua032">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kaua032&layout=compact&langs_count=7&theme=dark&card_width=420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua032&layout=compact&langs_count=7&theme=dark&card_width=420&card_height=200"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Artur-RF&layout=compact&langs_count=7&theme=dark&card_width=420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Artur-RF&layout=compact&langs_count=7&theme=dark&card_width=420&card_height=200"/>
 </div>
     
 ⚡ Technologies
 
-These are some of the technologies and tools that I work with:
+A list of the Technologies I study and use to develop my projects:
 
 Backend: 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
