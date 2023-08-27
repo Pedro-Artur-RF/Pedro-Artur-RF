@@ -24,8 +24,8 @@ with that said, I really hope that I can grow and create intresting projects.
 A list of the Technologies I study and use to develop my projects:
 
 Design
-![Canva](https://img.shields.io/badge/Canva-%2300C4Cflat-square&logoC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1Eflat-square&logo.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
