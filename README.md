@@ -6,10 +6,6 @@ i'm currently in my third year of High School and learning Web Development, I've
 with that said, I really hope that I can grow and create intresting projects. 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pedro-Artur-RF&bg_color=151515&color=fff&line=444444&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
 <div align="center" justify-content="center">
   <a href="https://github.com/Pedro-Artur-RF">
     <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Artur-RF&layout=compact&langs_count=7&theme=dark&card_width=420" />
