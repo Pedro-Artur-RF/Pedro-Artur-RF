@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4AF626&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+I'm+Pedro+Artur!!!+:D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4AF626&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+I'm+Pedro+Artur!!!+)](https://git.io/typing-svg)
 
 
 Hello, my name is Pedro Artur, I use he/they pronouns and I'm 18 years old.
-i'm currently in my third year of High School and learning Web Development, I've been Studying HTML, CSS, JS and Java, I'm also very interested in the cybersecurity world.
-with that said, I really hope that I can grow and create intresting projects. 
+i'm in my first year of college, I'm a computer science major and currently studing python,I also ateend to a Web Developmente program during my Highschool where I Learnt HTML, CSS, JS & NodeJS.
+I'm also very interested in the cybersecurity & computer networks area. 
 
 
 <div align="center" justify-content="center">
