@@ -2,7 +2,7 @@
 
 
 Hello, my name is Pedro Artur, I use he/they pronouns and I'm 19 years old.
-i'm in my first year of college, I'm a computer science major and currently studing python,I also ateend to a Web Developmente program during my Highschool where I Learnt Web development using NodeJS and bootstrap.
+i'm in my first year of college, I'm a computer science major and currently studing python,I also ateend to a Web Developmente program during my Highschool where I Learnt Web development using NodeJS and HandleBars.
 I'm also very interested in the cybersecurity & computer networks area. 
 
 
