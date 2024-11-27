@@ -31,6 +31,7 @@ I'm also very interested in the cybersecurity & computer networks area.
 
 >☕Backend: 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 >🗂️Database:
