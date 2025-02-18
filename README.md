@@ -5,12 +5,12 @@ Hello, my name is Pedro Artur, I use he/they pronouns and I'm 19 years old.
 i'm in my first year of college, I'm a computer science major and currently studing python,I also ateend to a Web Developmente program during my Highschool where I Learnt Web development using NodeJS and HandleBars.
 I'm also very interested in the cybersecurity & computer networks area. 
 
-
-<div align="center" justify-content="center">
-  <a href="https://github.com/Pedro-Artur-RF">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Artur-RF&layout=compact&langs_count=7&theme=dark&card_width=420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Artur-RF&layout=compact&langs_count=7&theme=dark&card_width=420&card_height=200"/>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Artur-RF" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Artur-RF]" />
+</a>
 
 
     
