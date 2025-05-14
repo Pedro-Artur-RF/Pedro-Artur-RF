@@ -2,7 +2,7 @@
 
 
 Hello, my name is Pedro Artur, I use he/they pronouns and I'm 19 years old.
-i'm in my third semester of college, I'm a computer science major and currently studing python,I also ateend to a Web Developmente program during my Highschool where I Learnt Web development using NodeJS and HandleBars.
+i'm in my third semester of college, I'm a computer science major and currently learning back-end java development,I also ateend to a Web Developmente program during my Highschool where I Learnt Web development using NodeJS, handlebars and multiple javaScript technologies.
 I'm also very interested in the cybersecurity & computer networks area. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Artur-RF)](https://github.com/anuraghazra/github-readme-stats)
