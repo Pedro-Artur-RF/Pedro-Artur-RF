@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4AF626&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+I'm+Pedro+Artur!!!+)](https://git.io/typing-svg)
 
 
-Hello, my name is Pedro Artur, I use he/they pronouns and I'm 19 years old.
-i'm in my third semester of college, I'm a computer science major and currently learning back-end java development,I also ateend to a Web Developmente program during my Highschool where I Learnt Web development using NodeJS, handlebars and multiple javaScript technologies.
+Hello, my name is Pedro Artur, I use he/they pronouns and I'm 20 years old.
+i'm in my fifth semester of college, I'm a computer science major and currently learning back-end java development,I also ateend to a Web Developmente program during my Highschool where I Learnt Web development using NodeJS, handlebars and multiple javaScript technologies.
 I'm also very interested in the cybersecurity & computer networks area. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Artur-RF)](https://github.com/anuraghazra/github-readme-stats)
